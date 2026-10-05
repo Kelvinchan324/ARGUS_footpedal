@@ -1,0 +1,27 @@
+foot_pedal_assem.SLDASM: relocate servoFeetechSTS3215_footpedal.SLDPRT = True
+foot_pedal_assem.SLDASM: relocate STS3215_metal_horn_footpedal.SLDPRT = True
+foot_pedal_assem.SLDASM: relocate foot_pedal_roll_mount.SLDPRT = True
+foot_pedal_assem.SLDASM: relocate pitch_yaw_connector.SLDPRT = True
+foot_pedal_assem.SLDASM: unresolved or ambiguous reference boot.stp.SLDPRT
+foot_pedal_assem.SLDASM: relocate pitch_motor_cover.SLDPRT = True
+foot_pedal_assem.SLDASM: relocate foot_pedal.SLDPRT = True
+foot_pedal_assem.SLDASM: relocate 20_50_spring.SLDPRT = True
+Assembly.SLDASM: already local altkalıp.sldprt
+Assembly.SLDASM: already local kauçukayaktabanı.SLDPRT
+Assembly.SLDASM: already local üst kalıp.sldprt
+TriPilot_pedal_reconstructed.SLDASM: relocate 01_Housing_motor_support.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 02_Base_plate.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 03_Inner_footplate.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 04_Outer_footplate.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 05_Central_yaw_coupler.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 06_X_motor_crank.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 07_Y_motor_crank.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 08_Y_vertical_link.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 09_X_vertical_link.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 10_Plate_joint_mount_A.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 11_Plate_joint_mount_B.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 12_Plate_joint_mount_C.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 13_DM4310_yaw.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 14_DM4310_X.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 15_DM4310_Y.SLDPRT = True
+TriPilot_pedal_reconstructed.SLDASM: relocate 16_Universal_joints_and_bearings.SLDPRT = True

@@ -1,0 +1,18 @@
+* text=auto
+*.py text eol=lf
+*.cs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.ps1 text eol=crlf
+*.[sS][lL][dD][pP][rR][tT] filter=lfs diff=lfs merge=lfs -text
+*.[sS][lL][dD][aA][sS][mM] filter=lfs diff=lfs merge=lfs -text
+*.[sS][lL][dD][dD][rR][wW] filter=lfs diff=lfs merge=lfs -text
+*.[sS][tT][lL] filter=lfs diff=lfs merge=lfs -text
+*.[sS][tT][pP] filter=lfs diff=lfs merge=lfs -text
+*.[sS][tT][eE][pP] filter=lfs diff=lfs merge=lfs -text
+*.[iI][gG][sS] filter=lfs diff=lfs merge=lfs -text
+*.[iI][gG][eE][sS] filter=lfs diff=lfs merge=lfs -text
+*.3dm filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text

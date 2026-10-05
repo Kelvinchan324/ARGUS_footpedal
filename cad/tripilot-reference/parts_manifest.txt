@@ -1,0 +1,16 @@
+01_Housing_motor_support|solid
+02_Base_plate|solid
+03_Inner_footplate|solid
+04_Outer_footplate|solid
+05_Central_yaw_coupler|solid
+06_X_motor_crank|solid
+07_Y_motor_crank|solid
+08_Y_vertical_link|solid
+09_X_vertical_link|solid
+10_Plate_joint_mount_A|solid
+11_Plate_joint_mount_B|solid
+12_Plate_joint_mount_C|solid
+13_DM4310_yaw|graphics
+14_DM4310_X|graphics
+15_DM4310_Y|graphics
+16_Universal_joints_and_bearings|graphics

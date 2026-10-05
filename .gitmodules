@@ -1,0 +1,3 @@
+[submodule "software/upstream/tripilot"]
+	path = software/upstream/tripilot
+	url = https://github.com/Jeong-zju/zeno-wholebody-teleop.git

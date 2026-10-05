@@ -1,0 +1,25 @@
+# Local tools, build output and credentials
+.venv/
+tools_env/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+build/
+devel/
+logs/
+.DS_Store
+Thumbs.db
+# SolidWorks locks and temporary files
+~$*
+*.sldbak
+*.swp
+*.tmp
+# Regenerable reconstruction intermediates
+cad/tripilot-reference/mesh_parts/
+cad/tripilot-reference/references/pedal_complete_mm.stl
+*.bmp
+cad/tripilot-reference/build_validation.txt
+cad/tripilot-reference/reopen_validation.txt
+cad/tripilot-reference/assembly_preview.png
